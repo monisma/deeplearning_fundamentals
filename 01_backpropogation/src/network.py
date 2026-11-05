@@ -145,7 +145,7 @@ import gzip
 import pickle
 import os
 import mnist_loader
-os.chdir("/home/mom/01_ai_ml_desk/mnist_dl_exercise/neural-networks-and-deep-learning/src")
+# os.chdir("/home/mom/01_ai_ml_desk/mnist_dl_exercise/neural-networks-and-deep-learning/src")
 
 training_data, validation_data, test_data = mnist_loader.load_data_wrapper()
 
